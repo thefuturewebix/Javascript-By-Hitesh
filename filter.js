@@ -11,7 +11,7 @@
         // * map return the same Node. or size of arr as existing arr 
         // * Filter returns fiktered arr on the basis of T&F and remove the unwanted elements from the array and save it to the new array
 
-const myNum = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const myNum = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 
 // ✨first_way
